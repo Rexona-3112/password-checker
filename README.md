@@ -42,3 +42,5 @@ Understand what makes a password strong by creating diverse examples and testing
 ## 📌 Tools Used
 
 - [https://passwordmeter.com](https://passwordmeter.com)
+
+---
